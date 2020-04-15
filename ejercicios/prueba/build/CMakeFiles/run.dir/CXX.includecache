@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Integer.cpp
+Integer.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Integer.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Integer.h
+tipos.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/tipos.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Number.h
+tipos.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/tipos.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/ejercicios.cpp
+ejercicios.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/ejercicios.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/ejercicios.h
+tipos.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/tipos.h
+Integer.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Integer.h
+Number.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/Number.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/main.cpp
+ejercicios.h
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/ejercicios.h
+
+/mnt/c/Users/Harlop/CLionProjects/ejercicios/prueba/src/tipos.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
